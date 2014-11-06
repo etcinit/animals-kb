@@ -1,0 +1,16 @@
+{
+  "name": "animals-kb",
+  "version": "0.0.1",
+  "description": "",
+  "main": "baseRule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ensure.js": "^0.4.2",
+    "prompt": "^0.2.14",
+    "require-dir": "^0.1.0"
+  }
+}
